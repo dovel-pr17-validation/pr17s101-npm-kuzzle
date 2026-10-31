@@ -90,7 +90,7 @@
     "@types/yargs": "17.0.35",
     "@vitest/coverage-v8": "5.0.5",
     "async": "3.2.6",
-    "eslint": "10.10.0",
+    "eslint": "10.14.0",
     "eslint-plugin-kuzzle": "2.0.0",
     "ioredis-mock": "8.13.1",
     "mqtt": "5.14.1",
